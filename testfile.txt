@@ -1,5 +1,11 @@
 Initial version of test file
 
+In the first branch, lines in the top 
+of the file is added.
+Several lines, ...
+Several lines, ...
+Several lines, ...
+
 
 The file contains a few lines of text.
 
