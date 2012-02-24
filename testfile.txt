@@ -1,5 +1,8 @@
 Initial version of test file
 
+The third branch makes changes in the same location 
+as the first branch did.
+This leads to trouble.
 
 The file contains a few lines of text.
 
