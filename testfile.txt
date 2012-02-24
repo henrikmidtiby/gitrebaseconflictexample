@@ -3,6 +3,11 @@ Initial version of test file
 
 The file contains a few lines of text.
 
+The second branch adds lines in a 
+different place of the file.
+So in this case should there be no 
+conflicts.
+
 
 But the contents is not that interesting.
 
