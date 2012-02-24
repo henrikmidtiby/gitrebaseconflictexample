@@ -1,0 +1,10 @@
+Initial version of test file
+
+
+The file contains a few lines of text.
+
+
+But the contents is not that interesting.
+
+
+So we stop around here.
